@@ -10,7 +10,7 @@ function App() {
           <div className="col-7">
             <div className="card1">
               <div className="card-body1">
-                <h3>Welcome to MedFit</h3>
+                <h3>Wel 2 MedFit</h3>
                 <AddTask />
                 <TaskList />
               </div>
