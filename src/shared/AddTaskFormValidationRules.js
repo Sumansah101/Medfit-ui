@@ -4,7 +4,7 @@ export default function validate(values) {
     errors.description = "Description is required";
   }
   if (!values.time) {
-    errors.time = "DuratioN is required";
+    errors.time = "Duration is required";
   }
   return errors;
 }
